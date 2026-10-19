@@ -1,0 +1,247 @@
+{
+ "version": 1,
+ "fuente": "IMG_5061.JPG",
+ "efectos": [
+  {
+   "id": 0,
+   "personaje": "Roronoa Zoro",
+   "archivo": "assets/sprites/effects/zoro.png",
+   "ancho": 325,
+   "alto": 97,
+   "confianza": "alta"
+  },
+  {
+   "id": 1,
+   "personaje": "Sanji",
+   "archivo": "assets/sprites/effects/sanji.png",
+   "ancho": 279,
+   "alto": 93,
+   "confianza": "alta"
+  },
+  {
+   "id": 2,
+   "personaje": "Dracule Mihawk",
+   "archivo": "assets/sprites/effects/mihawk.png",
+   "ancho": 233,
+   "alto": 112,
+   "confianza": "alta"
+  },
+  {
+   "id": 3,
+   "personaje": "Silvers Rayleigh",
+   "archivo": "assets/sprites/effects/rayleigh.png",
+   "ancho": 200,
+   "alto": 110,
+   "confianza": "media"
+  },
+  {
+   "id": 4,
+   "personaje": "Kozuki Oden",
+   "archivo": "assets/sprites/effects/oden.png",
+   "ancho": 228,
+   "alto": 127,
+   "confianza": "alta"
+  },
+  {
+   "id": 5,
+   "personaje": "Marco “El Fénix”",
+   "archivo": "assets/sprites/effects/marco.png",
+   "ancho": 229,
+   "alto": 131,
+   "confianza": "alta"
+  },
+  {
+   "id": 6,
+   "personaje": "Trafalgar D. Water Law",
+   "archivo": "assets/sprites/effects/law.png",
+   "ancho": 172,
+   "alto": 116,
+   "confianza": "alta"
+  },
+  {
+   "id": 7,
+   "personaje": "Eustass “Captain” Kid",
+   "archivo": "assets/sprites/effects/kid.png",
+   "ancho": 159,
+   "alto": 113,
+   "confianza": "alta"
+  },
+  {
+   "id": 8,
+   "personaje": "Yamato",
+   "archivo": "assets/sprites/effects/yamato.png",
+   "ancho": 288,
+   "alto": 119,
+   "confianza": "media"
+  },
+  {
+   "id": 9,
+   "personaje": "Bartholomew Kuma",
+   "archivo": "assets/sprites/effects/kuma.png",
+   "ancho": 134,
+   "alto": 128,
+   "confianza": "alta"
+  },
+  {
+   "id": 10,
+   "personaje": "Gol D. Roger",
+   "archivo": "assets/sprites/effects/roger.png",
+   "ancho": 143,
+   "alto": 131,
+   "confianza": "media"
+  },
+  {
+   "id": 11,
+   "personaje": "Edward Newgate (Barbablanca)",
+   "archivo": "assets/sprites/effects/barbablanca.png",
+   "ancho": 99,
+   "alto": 118,
+   "confianza": "media"
+  },
+  {
+   "id": 12,
+   "personaje": "Shanks “El Pelirrojo”",
+   "archivo": "assets/sprites/effects/shanks.png",
+   "ancho": 129,
+   "alto": 131,
+   "confianza": "media"
+  },
+  {
+   "id": 13,
+   "personaje": "Kaido",
+   "archivo": "assets/sprites/effects/kaido.png",
+   "ancho": 225,
+   "alto": 124,
+   "confianza": "media"
+  },
+  {
+   "id": 14,
+   "personaje": "Charlotte Linlin (Big Mom)",
+   "archivo": "assets/sprites/effects/big_mom.png",
+   "ancho": 195,
+   "alto": 138,
+   "confianza": "media"
+  },
+  {
+   "id": 15,
+   "personaje": "Marshall D. Teach (Barbanegra)",
+   "archivo": "assets/sprites/effects/barbanegra.png",
+   "ancho": 149,
+   "alto": 131,
+   "confianza": "alta"
+  },
+  {
+   "id": 16,
+   "personaje": "Monkey D. Garp",
+   "archivo": "assets/sprites/effects/garp.png",
+   "ancho": 137,
+   "alto": 129,
+   "confianza": "media"
+  },
+  {
+   "id": 17,
+   "personaje": "Sengoku “El Buda”",
+   "archivo": "assets/sprites/effects/sengoku.png",
+   "ancho": 215,
+   "alto": 154,
+   "confianza": "alta"
+  },
+  {
+   "id": 18,
+   "personaje": "Kuzan (Aokiji)",
+   "archivo": "assets/sprites/effects/aokiji.png",
+   "ancho": 182,
+   "alto": 127,
+   "confianza": "media",
+   "archivo_alterno": "assets/sprites/effects/aokiji_2.png"
+  },
+  {
+   "id": 19,
+   "personaje": "Borsalino (Kizaru)",
+   "archivo": "assets/sprites/effects/kizaru.png",
+   "ancho": 260,
+   "alto": 124,
+   "confianza": "alta"
+  },
+  {
+   "id": 20,
+   "personaje": "Sakazuki (Akainu)",
+   "archivo": "assets/sprites/effects/akainu.png",
+   "ancho": 256,
+   "alto": 121,
+   "confianza": "alta"
+  },
+  {
+   "id": 21,
+   "personaje": "Fujitora (Issho)",
+   "archivo": "assets/sprites/effects/fujitora.png",
+   "ancho": 193,
+   "alto": 138,
+   "confianza": "alta"
+  },
+  {
+   "id": 22,
+   "personaje": "Aramaki (Ryokugyu)",
+   "archivo": "assets/sprites/effects/aramaki.png",
+   "ancho": 199,
+   "alto": 118,
+   "confianza": "alta"
+  },
+  {
+   "id": 23,
+   "personaje": "Benn Beckman",
+   "archivo": "assets/sprites/effects/beckman.png",
+   "ancho": 180,
+   "alto": 98,
+   "confianza": "alta"
+  },
+  {
+   "id": 24,
+   "personaje": "Boa Hancock",
+   "archivo": "assets/sprites/effects/hancock.png",
+   "ancho": 179,
+   "alto": 117,
+   "confianza": "alta"
+  },
+  {
+   "id": 25,
+   "personaje": "Donquixote Doflamingo",
+   "archivo": "assets/sprites/effects/doflamingo.png",
+   "ancho": 312,
+   "alto": 127,
+   "confianza": "alta"
+  },
+  {
+   "id": 26,
+   "personaje": "Charlotte Katakuri",
+   "archivo": "assets/sprites/effects/katakuri.png",
+   "ancho": 204,
+   "alto": 107,
+   "confianza": "media"
+  },
+  {
+   "id": 27,
+   "personaje": "King “El Incendiario”",
+   "archivo": "assets/sprites/effects/king.png",
+   "ancho": 179,
+   "alto": 133,
+   "confianza": "alta"
+  },
+  {
+   "id": 28,
+   "personaje": "Rob Lucci",
+   "archivo": "assets/sprites/effects/lucci.png",
+   "ancho": 151,
+   "alto": 132,
+   "confianza": "media"
+  },
+  {
+   "id": 29,
+   "personaje": "Sabo",
+   "archivo": "assets/sprites/effects/sabo.png",
+   "ancho": 184,
+   "alto": 97,
+   "confianza": "alta"
+  }
+ ]
+}

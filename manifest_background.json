@@ -1,0 +1,18 @@
+{
+ "version": 1,
+ "fuente": "IMG_5052.JPG",
+ "archivo": "assets/backgrounds/stage.jpg",
+ "ancho": 1408,
+ "alto": 768,
+ "circulos_originales_eliminados": true,
+ "posiciones_luchadores": {
+  "jugador": {
+   "x": 489,
+   "y": 659
+  },
+  "rival": {
+   "x": 989,
+   "y": 546
+  }
+ }
+}

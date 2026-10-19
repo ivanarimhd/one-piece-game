@@ -1,0 +1,250 @@
+{
+ "version": 1,
+ "fuente": [
+  "IMG_5051.JPG",
+  "IMG_5054 2.JPG",
+  "IMG_5058.JPG"
+ ],
+ "sprites": [
+  {
+   "id": 0,
+   "nombre": "Roronoa Zoro",
+   "archivo": "assets/sprites/characters/zoro.png",
+   "ancho": 302,
+   "alto": 315,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 1,
+   "nombre": "Sanji",
+   "archivo": "assets/sprites/characters/sanji.png",
+   "ancho": 107,
+   "alto": 315,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 2,
+   "nombre": "Dracule Mihawk",
+   "archivo": "assets/sprites/characters/mihawk.png",
+   "ancho": 275,
+   "alto": 320,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 3,
+   "nombre": "Silvers Rayleigh",
+   "archivo": "assets/sprites/characters/rayleigh.png",
+   "ancho": 252,
+   "alto": 315,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 4,
+   "nombre": "Kozuki Oden",
+   "archivo": "assets/sprites/characters/oden.png",
+   "ancho": 194,
+   "alto": 320,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 5,
+   "nombre": "Marco “El Fénix”",
+   "archivo": "assets/sprites/characters/marco.png",
+   "ancho": 152,
+   "alto": 335,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 6,
+   "nombre": "Trafalgar D. Water Law",
+   "archivo": "assets/sprites/characters/law.png",
+   "ancho": 238,
+   "alto": 323,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 7,
+   "nombre": "Eustass “Captain” Kid",
+   "archivo": "assets/sprites/characters/kid.png",
+   "ancho": 207,
+   "alto": 335,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 8,
+   "nombre": "Yamato",
+   "archivo": "assets/sprites/characters/yamato.png",
+   "ancho": 289,
+   "alto": 329,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 9,
+   "nombre": "Bartholomew Kuma",
+   "archivo": "assets/sprites/characters/kuma.png",
+   "ancho": 258,
+   "alto": 382,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 10,
+   "nombre": "Gol D. Roger",
+   "archivo": "assets/sprites/characters/roger.png",
+   "ancho": 221,
+   "alto": 350,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 11,
+   "nombre": "Edward Newgate (Barbablanca)",
+   "archivo": "assets/sprites/characters/barbablanca.png",
+   "ancho": 272,
+   "alto": 381,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 12,
+   "nombre": "Shanks “El Pelirrojo”",
+   "archivo": "assets/sprites/characters/shanks.png",
+   "ancho": 204,
+   "alto": 333,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 13,
+   "nombre": "Kaido",
+   "archivo": "assets/sprites/characters/kaido.png",
+   "ancho": 281,
+   "alto": 382,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 14,
+   "nombre": "Charlotte Linlin (Big Mom)",
+   "archivo": "assets/sprites/characters/big_mom.png",
+   "ancho": 262,
+   "alto": 370,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 15,
+   "nombre": "Marshall D. Teach (Barbanegra)",
+   "archivo": "assets/sprites/characters/barbanegra.png",
+   "ancho": 278,
+   "alto": 350,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 16,
+   "nombre": "Monkey D. Garp",
+   "archivo": "assets/sprites/characters/garp.png",
+   "ancho": 258,
+   "alto": 342,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 17,
+   "nombre": "Sengoku “El Buda”",
+   "archivo": "assets/sprites/characters/sengoku.png",
+   "ancho": 234,
+   "alto": 349,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 18,
+   "nombre": "Kuzan (Aokiji)",
+   "archivo": "assets/sprites/characters/aokiji.png",
+   "ancho": 203,
+   "alto": 345,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 19,
+   "nombre": "Borsalino (Kizaru)",
+   "archivo": "assets/sprites/characters/kizaru.png",
+   "ancho": 206,
+   "alto": 341,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 20,
+   "nombre": "Sakazuki (Akainu)",
+   "archivo": "assets/sprites/characters/akainu.png",
+   "ancho": 214,
+   "alto": 340,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 21,
+   "nombre": "Fujitora (Issho)",
+   "archivo": "assets/sprites/characters/fujitora.png",
+   "ancho": 228,
+   "alto": 339,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 22,
+   "nombre": "Aramaki (Ryokugyu)",
+   "archivo": "assets/sprites/characters/aramaki.png",
+   "ancho": 199,
+   "alto": 347,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 23,
+   "nombre": "Benn Beckman",
+   "archivo": "assets/sprites/characters/beckman.png",
+   "ancho": 220,
+   "alto": 336,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 24,
+   "nombre": "Boa Hancock",
+   "archivo": "assets/sprites/characters/hancock.png",
+   "ancho": 201,
+   "alto": 324,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 25,
+   "nombre": "Donquixote Doflamingo",
+   "archivo": "assets/sprites/characters/doflamingo.png",
+   "ancho": 256,
+   "alto": 351,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 26,
+   "nombre": "Charlotte Katakuri",
+   "archivo": "assets/sprites/characters/katakuri.png",
+   "ancho": 177,
+   "alto": 355,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 27,
+   "nombre": "King “El Incendiario”",
+   "archivo": "assets/sprites/characters/king.png",
+   "ancho": 244,
+   "alto": 370,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 28,
+   "nombre": "Rob Lucci",
+   "archivo": "assets/sprites/characters/lucci.png",
+   "ancho": 185,
+   "alto": 358,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  },
+  {
+   "id": 29,
+   "nombre": "Sabo",
+   "archivo": "assets/sprites/characters/sabo.png",
+   "ancho": 194,
+   "alto": 330,
+   "identificacion": "segura (rostro/vestuario reconocible y posición en la hoja)"
+  }
+ ]
+}
